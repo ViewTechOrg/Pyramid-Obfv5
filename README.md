@@ -35,9 +35,8 @@ cd Pyramid-Obfv5
 make install
 make run
 ```
-> build = menginstall depencies dan mengcompile main.c<br>
-> run = jalankan setelah perintah build<br>
-> delete = menghapus script yg di bangun<br>
+> install = menginstall depencies dan mengcompile main.c<br>
+> run = jalankan setelah perintah make install<br>
   
 
 </details>
