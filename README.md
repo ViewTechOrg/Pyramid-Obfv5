@@ -30,7 +30,7 @@ apt-get install curl jq git ossp-uuid ncurses-utils
 pip install rich
 npm install -g bash-obfuscate
 pip install rich-cli
-git clone https://github.com/Bayu12345677/Piramid-obf
+git clone https://github.com/Bayu12345677/Pyramid-Obfv5
 cd Pyramid-Obfv5
 make install
 make run
